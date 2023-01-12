@@ -1,0 +1,21 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+    background-color: white
+}
+
+.homehead{
+
+    text-align: center;
+    color: rgb(20, 178, 125);
+    
+  }
+  .content{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 20px;
+    padding: 3rem 3rem 3rem 3rem
+  }

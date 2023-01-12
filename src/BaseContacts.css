@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+:any-link {
+        text-decoration: none;
+}
+
+.contact_icon{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column nowrap;
+    background-color: black;
+    gap: 4rem;
+    height: 40vh;
+ }
+ .base_contacts{
+    margin-top: 10px;
+  
+ }
+
+
+
+ .library__header {
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+ }
+
+.library__p {
+    color: aliceblue;
+    font-size: 1rem;
+    line-height: 20px;
+}
+
+.contact_underline{
+    text-decoration: underline solid;
+}
+
+.icon{
+    height: 30px;
+    display: flexbox;
+    flex-wrap: wrap;
+    border-radius: 50%;
+  
+   
+   
+  } 
+.icon_decor{
+    align-items: center;
+    margin: 0px 0px 0px 70px;
+    background-color: black;
+   
+   
+}
